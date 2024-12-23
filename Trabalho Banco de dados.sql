@@ -1,1 +1,0 @@
-create database joguinha_do_macaco
